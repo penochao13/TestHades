@@ -1,4 +1,5 @@
 http://playfacil.net:80/get.php?username=82161475&password=54355657&type=m3u_plus
+http://playfacil.net:80/get.php?714912069=USUÁRIO&password=833623853&type=m3u_plus&output=hls
 http://playfacil.net:80/get.php?714912069=USUÁRIO&password=833623853&type=m3u_plus
 http://iocashow.org/get.php?username=14196577&password=A129V4782P&type=m3u_plus
 http://splaytv.club:80//get.php?username=Xvn6jh&password=6gU1Bj&type=m3u_plus
