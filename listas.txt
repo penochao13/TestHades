@@ -1,1 +1,2 @@
 http://playfacil.net:80/get.php?username=82161475&password=54355657&type=m3u_plus
+http://iocashow.org/get.php?username=14196577&password=A129V4782P&type=m3u_plus
