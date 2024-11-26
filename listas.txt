@@ -4,3 +4,5 @@ http://splaytv.club:80//get.php?username=Xvn6jh&password=6gU1Bj&type=m3u_plus
 http://rotza.top/get.php?username=271580964&password=B269E8534T&type=m3u_plus&output=m3u8
 http://tv.viptvpro.com/get.php?username=V5ftdvm2vKh0&password=USi3GyRdwc&type=m3u_plus
 http://uniplay.proxytv.in/get.php?username=631038767&password=Y267V1056A&type=m3u_plus
+http://vis.blue:80/get.php?username=5490461&password=5421351&type=m3u_plus
+http://equipe.click:80/get.php?username=228463308&password=r576049x&type=m3u_plus 
