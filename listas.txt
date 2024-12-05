@@ -1,6 +1,3 @@
-#EXTM3U
- 
-#EXTINF:0,RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
